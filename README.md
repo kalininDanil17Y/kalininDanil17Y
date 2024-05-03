@@ -13,7 +13,7 @@ Studied machine learning and implemented face and object recognition in Python. 
 </p>
 
 <p>I've been working on a private GitLab for the last year.</p>
-<img alt="GitLab" src="[https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white](https://github.com/kalininDanil17Y/kalininDanil17Y/assets/89091098/270c631d-b5ca-403d-a856-8f71cf18815a)" />
+<img alt="GitLab" src=https://github.com/kalininDanil17Y/kalininDanil17Y/assets/89091098/270c631d-b5ca-403d-a856-8f71cf18815a" />
 
 <!--
 ## Tech Stack
