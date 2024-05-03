@@ -12,6 +12,9 @@ Now I'm in my fourth year of college, working in game dev and at the same time c
 Studied machine learning and implemented face and object recognition in Python. I have experience in creating simple bots for VKontakte (photo processing, a combination of Python and PHP). Many personal projects under my leadership include games, chatbots, online stores and hosting.
 </p>
 
+<p>I've been working on a private GitLab for the last year.</p>
+![image](https://github.com/kalininDanil17Y/kalininDanil17Y/assets/89091098/270c631d-b5ca-403d-a856-8f71cf18815a)
+
 <!--
 ## Tech Stack
 <p float="left">
