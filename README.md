@@ -57,6 +57,3 @@ Studied machine learning and implemented face and object recognition in Python. 
   </p>
 </p>
 
-## Other
-![HYPERV-CLUSTERS](https://github.com/kalininDanil17Y/kalininDanil17Y/assets/89091098/c75f0411-a9fb-43ac-b1ea-8bc093794eac)
-
