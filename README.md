@@ -1,7 +1,7 @@
 # 👋 Hello, let's get acquainted
 
 <p>
-My name is Danil and I am 19 years old. Since I was 12 years old I have been interested in programming and various sciences. Since childhood, I have been fascinated by technology, and I have always found pleasure in studying different devices and creating something new.
+My name is Danil and I am 21 years old. Since I was 12 years old I have been interested in programming and various sciences. Since childhood, I have been fascinated by technology, and I have always found pleasure in studying different devices and creating something new.
 </p>
 
 <p>
