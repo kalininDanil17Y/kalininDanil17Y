@@ -1,20 +1,12 @@
 # 👋 Hello, let's get acquainted
 
-<p>
-My name is Danil and I am 21 years old. Since I was 12 years old I have been interested in programming and various sciences. Since childhood, I have been fascinated by technology, and I have always found pleasure in studying different devices and creating something new.
-</p>
+<p> My name is Danil, and I am 21 years old. I have been interested in programming and various sciences since I was 12. Since childhood, I have been fascinated by technology, and I have always enjoyed studying different devices and creating something new. </p>
 
-<p>
-Now I'm in my fourth year of college, working in game dev and at the same time considering alternative jobs. However, I am actively seeking to develop my professional skills. I am proficient in OOP and MVC (ModelViewController), and have experience with Laravel and Symfony.
-</p>
+<p> I work in game development and am also considering alternative career opportunities. I actively strive to develop my professional skills. I have a solid understanding of OOP and MVC. </p>
 
-<p>
-Studied machine learning and implemented face and object recognition in Python. I have experience in creating simple bots for VKontakte (photo processing, a combination of Python and PHP). Many personal projects under my leadership include games, chatbots, online stores and hosting.
-</p>
+<p> I have worked with different programming languages, including PHP, C#, Kotlin, and Go, but currently I prefer working with Go and PHP. I have experience working with PostgreSQL databases, as well as Kafka, Redis, and Prometheus. I am actively studying Go and developing my skills in backend development. </p>
 
-<p>I've been working on a private GitLab for the last year.</p>
-<img alt="GitLab" src=https://github.com/kalininDanil17Y/kalininDanil17Y/assets/89091098/270c631d-b5ca-403d-a856-8f71cf18815a" />
-
+<p> Throughout my career, I have worked on both small pet projects, chatbots, and mini-apps, as well as designing full-fledged systems, integrating payment systems, and developing my own payment gateway. </p>
 
 ## Tech Stack
 <p float="left">
